@@ -99,7 +99,9 @@ a:hover{
 .bg-grey3{
   background-color: #e9ecef;
 }
-
+.bg-darkgreen2{
+  background-color: #577750;
+}
 .text-grey{
   color: #545b62;
 }
@@ -114,6 +116,11 @@ a:hover{
 .bg-tomato{
    background-color: #dc3545;
  }
+
+.border-teal{
+  border: 0.5rem solid;
+  border-color: teal;
+}
 
 .bg-yellow{
    background-color: #ffc107;
